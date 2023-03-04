@@ -1,2 +1,2 @@
 # Team3-project
-HTML and CSS
+HTML and CSS for food website
